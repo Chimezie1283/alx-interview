@@ -51,7 +51,7 @@ This project involves solving a competitive game scenario where Maria and Ben pl
 Run the provided test script to check the winner for Make sure to update the author information, license, and any other relevant details.
 
 ## Author
-[Chimezie](https://github.com/Chimezie1283)
+[Agbo Chimezie](https://github.com/Chimezie1283)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
